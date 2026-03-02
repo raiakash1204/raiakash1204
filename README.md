@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://thumbs.dreamstime.com/b/futuristic-neon-circuit-board-interface-isometric-tech-background-glowing-blue-purple-turquoise-paths-dark-383327950.jpg" width="900" alt="Neon cyber circuit header"/>
-  <br><br>
-
   <h1>⚡ Akash Rai ⚡</h1>
   <h3>Electrical → ML/AI → IoT  |  Turning volts into intelligence</h3>
 
@@ -38,7 +34,6 @@ Let's connect
 
 ⚙️ Tech Stack
 
-  <img src="https://thumbs.dreamstime.com/b/glowing-digital-data-network-blue-purple-neon-lines-connecting-nodes-d-grid-abstract-tech-background-design-390161142.jpg" width="720" alt="Glowing neural network nodes">
 
 
 Embedded + Hardware
@@ -63,11 +58,6 @@ Web + DevOps + Design
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42"/> 
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="42"/>
 
-
-
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raiakash1204&#x26;theme=neon&#x26;border=00ff9d&#x26;background=0d1117" alt="Contribution streak">
-  
 
 
   <img src="https://thumbs.dreamstime.com/b/glowing-futuristic-circuit-board-extending-horizon-pulsating-data-connections-high-tech-electronic-components-363996525.jpg" width="720" alt="Infinite neon circuit horizon">
