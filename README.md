@@ -12,8 +12,8 @@
 - 🎓 Electrical Engineering Undergraduate  
 - 🌱 Currently focusing on **Machine Learning, AI, and Intelligent Control Systems**  
 - ⚡ Strong interest in **Power Electronics, Electrical Machines, and Drive Systems**  
-- 📝 I write technical articles on **Machine Learning and Engineering Systems**  
-- 💬 Open to discussions on **Power Electronics, Control Systems, IoT, and ML Applications**  
+- 📝 I write technical articles on ML & Engineering Systems  
+- 💬 Ask me about **Power Electronics, Control Systems, IoT, and ML Applications**  
 - 📫 Reach me at: **raiakash1204@gmail.com**
 
 ---
@@ -37,32 +37,70 @@
 ## 🛠 Technical Stack
 
 ### ⚙️ Core Engineering
-Power Electronics • Control Systems • Electrical Machines • IoT Systems
+<p>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45" height="45"/>
+</p>
 
-### 💻 Programming
-Python • C • C++ • JavaScript • TypeScript
+### 💻 Programming Languages
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
+</p>
 
 ### 🤖 Machine Learning & Data
-TensorFlow • PyTorch • Scikit-learn • Pandas • OpenCV • Seaborn
+<p>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45" height="45"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45"/>
+</p>
 
 ### 🌐 Web & Backend
-React • Node.js • Django • Bootstrap • Tailwind CSS • Chart.js • D3.js
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="45" height="45"/>
+<img src="https://www.chartjs.org/media/logo-title.svg" width="45" height="45"/>
+</p>
 
 ### 🗄 Databases
-MySQL • MongoDB • SQLite • MS SQL Server
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" height="45"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45"/>
+</p>
 
-### 🧰 Tools & Platforms
-Arduino • MATLAB • Linux • Docker • Git • Figma • Blender • Photoshop • Illustrator
+### 🧰 Tools
+<p>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45"/>
+<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="45" height="45"/>
+</p>
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raiakash1204&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raiakash1204" />
 </p>
 
 ---
+
 
 ## 🎯 Current Focus
 
@@ -73,4 +111,4 @@ Arduino • MATLAB • Linux • Docker • Git • Figma • Blender • Photos
 
 ---
 
-⭐ *“Engineering intelligent systems at the intersection of power, control, and AI.”*
+⭐ *Engineering intelligent systems at the intersection of power, control, and AI.*
