@@ -1,68 +1,76 @@
-  <h1>⚡ Akash Rai ⚡</h1>
-  <h3>Electrical → ML/AI → IoT  |  Turning volts into intelligence</h3>
+<h1 align="center">Hi 👋, I'm Akash Rai</h1>
+<h3 align="center">Electrical Engineering Undergraduate | Machine Learning • AI • IoT • Control Systems</h3>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=raiakash1204&label=Profile%20views&color=00ff9d&style=for-the-badge" alt="profile views"/>
-  </p>
-</div>
-                  🌩️  Electrons meet neurons  🌩️
-      Power Electronics  •  Control Systems  •  IoT  •  Machine Learning
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raiakash1204&label=Profile%20views&color=0e75b6&style=flat" alt="raiakash1204" />
+</p>
 
-🔌 Currently deep into Edge AI + Machine Learning on real hardware
-📡 Building systems where physical world meets intelligent code
-✍️ Sharing what I learn → medium.com/@raiakash1204
-💬 Hit me up about: Power Electronics • Control Theory • IoT projects • ML pipelines
+---
 
+## 🚀 About Me
 
+- 🎓 Electrical Engineering Undergraduate  
+- 🌱 Currently focusing on **Machine Learning, AI, and Intelligent Control Systems**  
+- ⚡ Strong interest in **Power Electronics, Electrical Machines, and Drive Systems**  
+- 📝 I write technical articles on **Machine Learning and Engineering Systems**  
+- 💬 Open to discussions on **Power Electronics, Control Systems, IoT, and ML Applications**  
+- 📫 Reach me at: **raiakash1204@gmail.com**
 
+---
 
-Let's connect
+## 🌐 Connect With Me
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
- 
+<p align="left">
+<a href="https://linkedin.com/in/raiakash1204" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://instagram.com/raiakash1204" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+<a href="https://medium.com/@raiakash1204" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
+</a>
+</p>
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
- 
+---
 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
- 
+## 🛠 Technical Stack
 
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+### ⚙️ Core Engineering
+Power Electronics • Control Systems • Electrical Machines • IoT Systems
 
+### 💻 Programming
+Python • C • C++ • JavaScript • TypeScript
 
+### 🤖 Machine Learning & Data
+TensorFlow • PyTorch • Scikit-learn • Pandas • OpenCV • Seaborn
 
+### 🌐 Web & Backend
+React • Node.js • Django • Bootstrap • Tailwind CSS • Chart.js • D3.js
 
-⚙️ Tech Stack
+### 🗄 Databases
+MySQL • MongoDB • SQLite • MS SQL Server
 
+### 🧰 Tools & Platforms
+Arduino • MATLAB • Linux • Docker • Git • Figma • Blender • Photoshop • Illustrator
 
+---
 
-Embedded + Hardware
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="42"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42"/> 
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="42"/>
-Core Languages + Data
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/> 
-<img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="42"/> 
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42"/>
-ML / Deep Learning
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="42"/> 
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42"/>
-Web + DevOps + Design
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="42"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="42"/> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42"/> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42"/> 
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="42"/>
+## 📊 GitHub Activity
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raiakash1204&theme=default" alt="GitHub Streak" />
+</p>
 
+---
 
-  <img src="https://thumbs.dreamstime.com/b/glowing-futuristic-circuit-board-extending-horizon-pulsating-data-connections-high-tech-electronic-components-363996525.jpg" width="720" alt="Infinite neon circuit horizon">
+## 🎯 Current Focus
 
+- ML-based Control of Electrical Drives  
+- AI for Power Electronics Optimization  
+- Intelligent IoT Systems  
+- Autonomous Energy Systems  
 
+---
 
-
-  Hardware hacker by day • AI explorer by night • Always chasing the signal
+⭐ *“Engineering intelligent systems at the intersection of power, control, and AI.”*
