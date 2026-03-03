@@ -8,7 +8,7 @@
 
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/raiakash1204"><img src="https://readme-typing-svg.demolab.com?font=Quantico&size=25&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+Electrical+Engineering+%40RGIPT+%7C+Hackathons+;Hackathons+%7C+Open+Source+%7C+Conference;Power+Elec.+%7C+Controls+%7C+AI+%26+ML" alt="Typing SVG" /></a>
+  <a href="https://github.com/raiakash1204"><img src="https://readme-typing-svg.demolab.com?font=Quantico&size=25&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+Electrical+Engineering+%40RGIPT;Hackathons+%7C+Open+Source+%7C+Conference;Power+Elec.+%7C+Controls+%7C+AI+%26+ML" alt="Typing SVG" /></a>
 </p>
 
 
