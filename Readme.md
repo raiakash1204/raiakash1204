@@ -27,7 +27,7 @@
       <a href="https://medium.com/@raiakash1204"><img alt="medium" src="https://github.com/user-attachments/assets/457b570f-2fea-4bfe-8ddc-6ea9133bffaa"width="80"></a>
     </td>    
     <td align="center" width="60">
-      <a href=""><img width="60" alt="skills" src="https://github.com/user-attachments/assets/44a56b1a-135f-4b33-ae84-998d80c42313" ></a><!--Insert Resume Link Here-->
+      <a href="https://drive.google.com/drive/folders/1ymmd-mPLLwLURaNP4zt6hJW3Bz6RzYAo?usp=sharing"><img width="60" alt="skills" src="https://github.com/user-attachments/assets/44a56b1a-135f-4b33-ae84-998d80c42313" ></a><!--Insert Resume Link Here-->
     </td>
   </tr>
 </table>
