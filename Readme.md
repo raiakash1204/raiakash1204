@@ -36,20 +36,26 @@
   <a href="https://github.com/Hunterdii">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"></a>
 
+<div align="center">
 
-### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### 📚 Currently Learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-* **Machine Learning and Artificial Intelligence** 🔐
-* **Modelling and Simulation** 
+<img src="https://img.shields.io/badge/Machine Learning & AI-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Modelling & Simulation-4ECDC4?style=for-the-badge&logo=mathematica&logoColor=white" />
+<br>
 
+### 💬 Ask Me About
 
-### 💭 Ask me about
+<img src="https://img.shields.io/badge/Power Electronics-FFD700?style=for-the-badge&logo=atom&logoColor=black" />
+<img src="https://img.shields.io/badge/Control Systems-0079D6?style=for-the-badge&logo=simulink&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Internet of Things-00A8E8?style=for-the-badge&logo=microchip&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Artificial Intelligence-9B59B6?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Full Stack Development-00D9FF?style=for-the-badge&logo=code&logoColor=white" />
 
-* **Power Electronics** 
-* **Control Systems**
-* **Internet of Things**
-* **Machine Learning**
-* **Artificial Intelligence**
+</div>
 
 
 <a href="https://github.com/raiakash1204">
