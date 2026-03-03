@@ -18,16 +18,16 @@
 <table width="120" align="center">
   <tr>  
     <td align="center" width="60">
-      <a href="https://www.linkedin.com/in/raiakash1204/"><img alt="linkedin" src="https://github.com/user-attachments/assets/72f5968a-cfb8-4e88-bf8c-6bb217a79ba3" height="36" width="65"></a>
+      <a target="_blank" href="https://www.linkedin.com/in/raiakash1204/"><img alt="linkedin" src="https://github.com/user-attachments/assets/72f5968a-cfb8-4e88-bf8c-6bb217a79ba3" height="36" width="65"></a>
     </td>
     <td align="center" width="60">
-      <a href="mailto:raiakash1204@gmail.com"><img src="https://github.com/user-attachments/assets/a6c28e80-590c-4653-bb9e-9f998ab68d32" width="80"></a>
+      <a target="_blank" href="mailto:raiakash1204@gmail.com"><img src="https://github.com/user-attachments/assets/a6c28e80-590c-4653-bb9e-9f998ab68d32" width="80"></a>
     </td>
      <td align="center" width="60">
-      <a href="https://medium.com/@raiakash1204"><img alt="medium" src="https://github.com/user-attachments/assets/457b570f-2fea-4bfe-8ddc-6ea9133bffaa"width="80"></a>
+      <a target="_blank" href="https://medium.com/@raiakash1204"><img alt="medium" src="https://github.com/user-attachments/assets/457b570f-2fea-4bfe-8ddc-6ea9133bffaa"width="80"></a>
     </td>    
     <td align="center" width="60">
-      <a href="https://drive.google.com/drive/folders/1ymmd-mPLLwLURaNP4zt6hJW3Bz6RzYAo?usp=sharing"><img width="60" alt="skills" src="https://github.com/user-attachments/assets/44a56b1a-135f-4b33-ae84-998d80c42313" ></a><!--Insert Resume Link Here-->
+      <a target="_blank" href="https://drive.google.com/drive/folders/1ymmd-mPLLwLURaNP4zt6hJW3Bz6RzYAo?usp=sharing"><img width="60" alt="skills" src="https://github.com/user-attachments/assets/44a56b1a-135f-4b33-ae84-998d80c42313" ></a><!--Insert Resume Link Here-->
     </td>
   </tr>
 </table>
