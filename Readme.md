@@ -27,7 +27,7 @@
       <a target="_blank" href="https://medium.com/@raiakash1204"><img alt="medium" src="https://github.com/user-attachments/assets/457b570f-2fea-4bfe-8ddc-6ea9133bffaa"width="80"></a>
     </td>    
     <td align="center" width="60">
-      <a target="_blank" href="https://drive.google.com/file/d/1nk88c-_B01D3ZQQr3CKDf_UlSpoL9clC/view?usp=sharing"><img width="60" alt="skills" src="https://github.com/user-attachments/assets/44a56b1a-135f-4b33-ae84-998d80c42313" ></a><!--Insert Resume Link Here-->
+      <a target="_blank" href="https://drive.google.com/file/d/1MVl8hEVoIAIfP-gvcZScUsBvDa3x4O-d/view?usp=drive_link"><img width="60" alt="skills" src="https://github.com/user-attachments/assets/44a56b1a-135f-4b33-ae84-998d80c42313" ></a><!--Insert Resume Link Here-->
     </td>
   </tr>
 </table>
